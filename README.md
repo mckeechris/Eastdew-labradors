@@ -21,4 +21,5 @@ Home · About Eastdew · Our Dogs · Candy · Comet · Nova · Litters · Puppy 
 - Nova: `assets/dogs/nova-show-ring.jpeg`, `assets/dogs/nova-moving.jpeg`, `assets/dogs/nova-puppy.jpeg`
 
 ## Deployment
-Static HTML/CSS/assets only. No build system or dependencies are required. Suitable for GitHub Pages..
+Static HTML/CSS/assets only. No build system or dependencies are required. Suitable for GitHub Pages.
+deployment refresh.
